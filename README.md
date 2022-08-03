@@ -1,17 +1,17 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/sarveshhiwase/Readme/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/sarveshhiwase/Readme/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sarveshhiwase/Readme/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/GIF/image.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Java Backend Development**
@@ -87,23 +87,23 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/sarveshhiwase/Readme/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/sarvesh-hiwase/" target="_blank"> 
-    <code><img height="60" width="60" src="https://github.com/sarveshhiwase/Readme/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.hackerrank.com/hiwasesarvesh07/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/sarveshhiwase/Readme/blob/master/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/PNG/hr.png"/></code>
   </a>
    <a href="https://www.codechef.com/users/killernaru" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/sarveshhiwase/Readme/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/SVG/cc.svg"/></code>
   </a>
    <a href="https://leetcode.com/sarveshhiwase/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/sarveshhiwase/Readme/blob/master/PNG/lc.png"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/PNG/lc.png"/></code>
   </a>
 </p>
 
@@ -118,4 +118,4 @@
 
 #
 
-![footer](https://github.com/sarveshhiwase/Readme/blob/master/PNG/footer.png)
+![footer](https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/PNG/footer.png)
