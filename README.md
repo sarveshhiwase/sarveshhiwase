@@ -9,14 +9,13 @@
 </h1>
 
 <br/>
-<br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/GIF/image.gif">
+  <img style="max-width:100%;" alt="GIF" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/GIF/image.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Java Backend Development**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Backend Development**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Web Development ,Data structures & Algorithms**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **Full Time SDE**
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **Fun Open source projects to work on**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His**
 - ⚡ Random 𝚏𝚊𝚌𝚝 : **Never give up..**
 <br/>
@@ -25,14 +24,19 @@
   Look at some of my interesting Projects: 
   </h1>
 <br/>
-<br/>
-<p align="center">
+<p>
+  <div>
   <a href="https://github.com/sarveshhiwase/quizokets">
-    <img align="center" alt="quizokets" src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshhiwase&repo=quizokets" />
+    <img width="100%" align="center" alt="quizokets" src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshhiwase&repo=quizokets" />
   </a>
+  </div>
+
+<div>
   <a href="https://github.com/sarveshhiwase/noteglimpser-cli">
-    <img align="center" alt="Check_coro" src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshhiwase&repo=noteglimpser-cli" />
+    <img width="100%" align="center" alt="Check_coro" src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshhiwase&repo=noteglimpser-cli" />
   </a>
+  </div>
+  
 </p>
 
 <h1>
