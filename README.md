@@ -100,15 +100,6 @@
   <a href="https://www.linkedin.com/in/sarvesh-hiwase/" target="_blank"> 
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.hackerrank.com/hiwasesarvesh07/" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/PNG/hr.png"/></code>
-  </a>
-   <a href="https://www.codechef.com/users/killernaru" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/SVG/cc.svg"/></code>
-  </a>
-   <a href="https://leetcode.com/sarveshhiwase/" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/sarveshhiwase/sarveshhiwase/master/PNG/lc.png"/></code>
-  </a>
 </p>
 
 <br/>
